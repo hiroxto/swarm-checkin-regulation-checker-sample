@@ -1,0 +1,10 @@
+*.gem
+/doc/
+/rdoc/
+/.bundle/
+/vendor/bundle
+.ruby-version
+.rvmrc
+
+!.gitkeep
+.env
