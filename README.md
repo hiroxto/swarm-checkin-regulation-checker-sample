@@ -1,4 +1,4 @@
-# swarm-checkin-regulation-checker
+# swarm-checkin-regulation-checker-sample
 
 Swarmのチェックイン規制を確認するツール
 
